@@ -8,9 +8,9 @@ Repositório público apenas para distribuição do instalador do Print Agent.
 
 ## Versão atual
 
-- `v1.0.0`
-- Installer: `Doce Massa Print Agent Setup 1.0.0.exe`
-- SHA-256: `45320ae0edfeecaabd72c14a8f646e493e78cd5440758d282e2de60fc042c977a969`
+- `v1.0.1`
+- Installer: `Doce Massa Print Agent Setup 1.0.1.exe`
+- SHA-256: `4d1e11b11578b46e25dff9b81bde07c3710771af90aa947225d0a4c14b55b392`
 
 ## Instalação
 
