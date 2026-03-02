@@ -1,2 +1,3 @@
 320ae0edfeecaabd72c14a8f646e493e78cd5440758d282e2de60fc042c977a9  Doce Massa Print Agent Setup 1.0.0.exe
 4d1e11b11578b46e25dff9b81bde07c3710771af90aa947225d0a4c14b55b392  Doce Massa Print Agent Setup 1.0.1.exe
+97ed54e8b91f3a90fcddb2f2d0ded013e642180ac0a7f27a804759d0f9de0ef8  Doce Massa Print Agent Setup 1.0.2.exe
